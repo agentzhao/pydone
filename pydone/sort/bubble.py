@@ -1,4 +1,4 @@
-def teach():
+def intro():
     print("repeatedly swapping the adjacent elements if they are in wrong order")
 
 def show():
