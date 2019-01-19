@@ -6,7 +6,7 @@
 ### Make sure you have the latest version of __python__ and __pip__ installed.
 ###     py -m pip install pydone
 ### to update:
-###     py -m pip install pydone==<versionnumber>
+###     py -m pip install pydone==versionnumber
 
 # Version 1.5.0
 ### Added help functions

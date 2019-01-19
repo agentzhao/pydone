@@ -1,14 +1,24 @@
 Metadata-Version: 2.1
 Name: pydone
-Version: 1.4.1
+Version: 1.5.0
 Summary: A small python library
-Home-page: https://github.com/tensorflow/models
+Home-page: https://github.com/Agentzhao/pydone
 Author: AI lmao
 Author-email: tan.hongzhao@dhs.sg
 License: UNKNOWN
 Description: # pydone Package
         
         # Made by Agentzhao and Revold
+        
+        ## How to Install
+        ### Make sure you have the latest version of __python__ and __pip__ installed.
+        ###     py -m pip install pydone
+        ### to update:
+        ###     py -m pip install pydone==<versionnumber>
+        
+        # Version 1.5.0
+        ### Added help functions
+        ### Added teaching modules
         
         # Version 1.4.1
         ### More Bug Fixes
