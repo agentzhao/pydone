@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pydone",
-    version="1.4.1",
+    version="1.5.0",
     author="AI lmao",
     author_email="tan.hongzhao@dhs.sg",
     description="A small python library",

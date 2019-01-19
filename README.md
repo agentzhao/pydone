@@ -2,6 +2,16 @@
 
 # Made by Agentzhao and Revold
 
+## How to Install
+### Make sure you have the latest version of __python__ and __pip__ installed.
+###     py -m pip install pydone
+### to update:
+###     py -m pip install pydone==<versionnumber>
+
+# Version 1.5.0
+### Added help functions
+### Added teaching modules
+
 # Version 1.4.1
 ### More Bug Fixes
 
