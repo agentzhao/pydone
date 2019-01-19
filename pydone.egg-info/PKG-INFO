@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pydone
-Version: 1.4.0
+Version: 1.4.1
 Summary: A small python library
 Home-page: https://github.com/tensorflow/models
 Author: AI lmao
@@ -9,6 +9,9 @@ License: UNKNOWN
 Description: # pydone Package
         
         # Made by Agentzhao and Revold
+        
+        # Version 1.4.1
+        ### More Bug Fixes
         
         # Version 1.4.0
         ### Bug Fixes for Description
