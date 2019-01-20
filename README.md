@@ -3,10 +3,14 @@
 # Made by Agentzhao and Revold
 
 ## How to Install
-### Make sure you have the latest version of __python__ and __pip__ installed.
-###     py -m pip install pydone
+### Make sure you have the latest version of **python** and **pip** installed.
+'''py -m pip install pydone'''
 ### to update:
-###     py -m pip install pydone==versionnumber
+'''py -m pip install pydone==versionnumber'''
+
+# Version 1.5.1
+### Added a 'l' somewhere
+### Added words
 
 # Version 1.5.0
 ### Added help functions
@@ -19,13 +23,13 @@
 ### Bug Fixes for Description
 
 # Version 1.3.0
-### Released all data structure algorithms
+### Released data structure algorithms
 
 # Version 1.2.0
-### Released all searching algorithms
+### Released searching algorithms
 
 # Version 1.1.0
-### Released all sorting algorithms
+### Released sorting algorithms
 
 # Version 1.0.1
 ### Released bubble sort algorithm
