@@ -8,6 +8,9 @@ Make sure you have the latest version of **python** and **pip** installed. <br /
 To update: <br />
 ```py -m pip install pydone==versionnumber``` <br />
 
+## Version 1.5.4
+Fixed very serious program breaking bug.
+
 ## Version 1.5.3
 Added a 'l' somewhere <br />
 Added words <br />

@@ -1,0 +1,10 @@
+Distribution
+
+py setup.py sdist bdist_wheel
+py -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
+
+Download
+py -m pip install pydone
+
+Update
+py -m pip install pydone==latestversionnumber

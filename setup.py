@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pydone",
-    version="1.5.3",
+    version="1.5.4",
     author="AI lmao",
     author_email="tan.hongzhao@dhs.sg",
-    description="A small python library",
+    description="A small python library.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Agentzhao/pydone",
